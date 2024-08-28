@@ -1,0 +1,18 @@
+
+Adaptation and Modification Notes
+
+Original Work:
+
+Author/Title: https://html5up.net and heavily modified by Removed name.
+License: Creative Commons Attribution 3.0 Unported
+
+Changes Made:
+Headers Changed: All pages were reformatted to better diaplay my projects.
+Sections Removed:
+    - Add decoration under title.
+    - Removed uneeded icons for twitter, facebook ...
+    - Changed article formats to a simple version. Remove sections from the footer.
+    - In projects page ( the main page ), removed an article that is sized at 100% and replaced it with the next section that includes two articles sized at 50%
+    - I only used the pages called main page and a generic page formats. I removed all other formats. They were not needed and too congested with information.
+Context:
+Purpose of Adaptation: To create a simple design that diplays my porfolio.
