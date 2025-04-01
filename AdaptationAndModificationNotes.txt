@@ -3,7 +3,7 @@ Adaptation and Modification Notes
 
 Original Work:
 
-Author/Title: https://html5up.net and heavily modified by Removed name.
+Author/Title: https://html5up.net and heavily modified by MT.
 License: Creative Commons Attribution 3.0 Unported
 
 Changes Made:
